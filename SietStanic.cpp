@@ -1,6 +1,5 @@
 #include "SietStanic.h"
-
-
+                           
 using namespace std;
 SietStanic::SietStanic()
 {
